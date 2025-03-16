@@ -1,4 +1,5 @@
 name: ci
+checkout@v4
 on: [push, pull_request]
 permissions:
   contents: read
