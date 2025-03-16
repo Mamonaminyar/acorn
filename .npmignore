@@ -1,4 +1,5 @@
 /.tern-port
+npm-install run
 /test
 /local
 /rollup
