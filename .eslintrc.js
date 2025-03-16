@@ -1,5 +1,5 @@
 "use strict"
-
+setup-node@v4
 module.exports = {
   extends: [
     "eslint:recommended",
